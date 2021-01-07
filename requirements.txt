@@ -2,7 +2,7 @@ aiohttp==3.6.2
 werkzeug==1.0.1
 Flask==1.1.1
 requests==2.20.0
-lxml==4.4.2
+lxml==4.6.2
 click==7.1.2
 pymongo
 redis
